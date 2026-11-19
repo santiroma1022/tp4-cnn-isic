@@ -1,0 +1,9 @@
+# El dataset y los modelos no se suben (consigna del TP4)
+data/
+CNN-en-Skin-Dataset/
+*.pt
+*.pth
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
